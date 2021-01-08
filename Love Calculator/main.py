@@ -25,3 +25,9 @@ elif (LoveScores >= 40) and (LoveScores <= 50):
 	print(f"Your score is {LoveScores} , you are alright together.")
 else:
 	print(f"Your score is {LoveScores}.")
+	
+# output : What is your name? 
+chetan pujari
+What is their name? 
+Kriti Sanon
+Your score is 62.
