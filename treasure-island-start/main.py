@@ -39,3 +39,13 @@ if choice == "left":
 		print("attacked by trout game over")
 else:
 	print("fall into a hole game over.")
+	
+"""output: Welcome to Treasure Island.
+Your mission is to find the treasure.
+for finding trasure theair are two ways left or right which one way you want go
+left
+you have to swim or wait please choose
+wait
+three doors red,blue,yellow
+yellow
+you won"""
